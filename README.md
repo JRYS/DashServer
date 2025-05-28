@@ -1,6 +1,7 @@
-# Project Title
+# Create Interactive Web Applications Without JavaScript or HTML
 
-Dash & Python: Create Interactive Web Applications Without JavaScript or HTML
+![image](https://github.com/user-attachments/assets/efb17941-dbbb-4e5f-b394-12f6c6a9e52b)
+
 
 ## Description
 
